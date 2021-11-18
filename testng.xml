@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+
+
+<test name="testngTest">
+<classes>
+
+<class name = "TestCases.APITest" />
+
+</classes>
+
+</test>
+</suite>
